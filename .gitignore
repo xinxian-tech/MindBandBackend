@@ -1,3 +1,10 @@
 music/
 .DS_Store
 __pycache__
+*.mp3
+*.wav
+*.jpg
+*.m4a
+*.pkf
+*.mid
+.vscode
